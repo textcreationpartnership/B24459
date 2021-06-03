@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Hvmble petition of divers baronets, knights, esquires, gentlemen, clergy, and freeholders of the covnty of Lincolne to the right honorable the House of Commons now in the high court of Parliament assembled : with a letter sent to Master Speaker from the knights, esquiers, gentry, and freeholders of the same county ; for the presenting of their petition to the honourable House of Commons now in Parliament assembled.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24459</idno><idno type="EEBO-CITATION">12244430</idno>
+  <idno type="VID">197390</idno>
+  <idno type="EEBO-PROQUEST">2248554089</idno>
+  
+            <idno type="STC">Wing H3453</idno>
+            <idno type="OCLC">12244430</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E108, no 29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Hvmble petition of divers baronets, knights, esquires, gentlemen, clergy, and freeholders of the covnty of Lincolne to the right honorable the House of Commons now in the high court of Parliament assembled : with a letter sent to Master Speaker from the knights, esquiers, gentry, and freeholders of the same county ; for the presenting of their petition to the honourable House of Commons now in Parliament assembled.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Iohn Thomas,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1642, August 1.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A pro-royalst petition, originally printed as a broadside. cf. Steele 225, England.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+                  <note>Originall published: York, 1642?</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Lincolnshire (England) --  History --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197390:1"/>
+            <p>THE HVMBLE PETITION OF DIVERS BARONETS, KNIGHTS, ESQVIERS, GEN<g ref="char:EOLhyphen"/>TLEMEN, CL<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>RGY, AND FREE<g ref="char:EOLhyphen"/>HOLDERS OF THE COVNTY OF LINCOLNE: To the Right Honorable the House of COMMONS, now in the High Court of <hi>Parliament</hi> Assembled.</p>
+            <p>WITH <hi>A Letter sent to Master</hi> SPEAKER, From the Knights, Esquiers, Gentry, and Freeholders of the same County.</p>
+            <p>For the presenting of their Petition to the Honourable House of COMMONS, now in PARLIA<g ref="char:EOLhyphen"/>MENT Assembled.</p>
+            <p>First P<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted at <hi>Yorke,</hi> and now reprinted for <hi>Iohn Thomas,</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>642. <hi>August</hi> 1.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:197390:2"/>
+            <pb facs="tcp:197390:2"/>
+            <head>THE HVMBLE PETITION OF Divers Baronets, Knights, Esquires, Gentlemen, Clergy, and Freeholders of the County of <hi>LINCOLNE.</hi>
+            </head>
+            <head type="sub">To the Right Honourable the House of Commons, now in the High Court of Parliament Assembled.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas we are truely sensible of, and gratefull for, your great and unwearied Industry and Paines, And many happy fruits which we have reaped by His Maiesties gra<g ref="char:EOLhyphen"/>cious concurrence with you, in those many late Excellent Lawes of Publique security, ease, and advantage to the Kingdome. We do likewise presume (in the midst of our present, and great distractions, where the Wounds will prove Mor<g ref="char:EOLhyphen"/>tall,
+<pb n="4" facs="tcp:197390:3"/>if <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot speedily cloased) to present our Hum<g ref="char:EOLhyphen"/>ble desires to you, in away of Accommodation, the only means (under God) to Unite us i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Duties to God, our Soveraign, and hearty affecti<g ref="char:EOLhyphen"/>ons to one another, the very Pillers of Govern<g ref="char:EOLhyphen"/>ment<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without which, all Estates are in a totter<g ref="char:EOLhyphen"/>ing, if not ruinous condition. Which your Wise<g ref="char:EOLhyphen"/>domes (being the greatest Architects) we hope will (with His Maiesties gracious Assist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce) hap<g ref="char:EOLhyphen"/>pily prevent by Cimmenting the whole Fabricke into a Blessed Combination, which we <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stly p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay for, and Humbly after these our desires, as the only Materials we can contribute to so good a Worke.</p>
+            <p n="1">1. That his Majesty may have <hi>HVLL</hi> (one of the bones of our unhappy divisions) delivered up, with the <hi>Magazine</hi> remaining there, that it may be disposed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff, for the defence of the Northerne parts (in case of Invasion or Insurrection) to some such Person as His Majesty shall Command, which we are confident His goodnesse will Order for the Publique good.</p>
+            <p n="2">2. That all Iealousies may be laid downe with their effects, so as all Guar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s may be dischar<g ref="char:EOLhyphen"/>ged, all Forces Disbanded, and the <hi>Militia</hi> Wa<g ref="char:EOLhyphen"/>ved, it being the Wall of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tition betwixt His Majesty and you; And we f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r, likely to endan<g ref="char:EOLhyphen"/>ger the Peace of the Kingdome, instead of Pre<g ref="char:EOLhyphen"/>serving it.</p>
+            <p n="3">3. That the necessity being Voted by both the Honourabl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Houses o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parliament, of putting the Kingdome into a Posture of War; His Ma<g ref="char:EOLhyphen"/>jesty
+<pb n="5" facs="tcp:197390:3"/>might be Petitioned by his just power (which we conceive is to worke in such cases) to continue it in such Hands, As your selves shall have no Iust cause to accept against, till some Bill be passed for the future Regulation of it; by which way all Men (we hope) will be United in their Obedience to it.</p>
+            <p n="4">4. That some way may be thought off, for the burying of all the misunderstanding between His Maiesty and both Houses, so as the Members may meet with confidence and freedome; And that His Maiesties gracious Message of the twentieth of <hi>Ianuary,</hi> may be taken into consideration that it may produce it's wished effects.</p>
+            <p n="5">5. That you will be pleased to make a Decla<g ref="char:EOLhyphen"/>ration that no Commands or Orders whatsoever, wherein His Maiesties consent is not, or not grounded upon the knowne Lawes of the Realme, may be pressed to require the Subiects Obedience, but that the Lawes may have their force, and go<g ref="char:EOLhyphen"/>verne us by the sworn Iudges and ordinary courts of Iustice, unlesse in such cases as are proper for the Parliament only.</p>
+            <p n="6">6. That you would declare with His Maiesty, That the Church Government as it now stands in force, may be put in execucion for the suppressing of those unparalled Prophanesses, Schismes, and Disorders, that are broken in amongst us, and will prove distructive to all Piety, and endanger the very subversion both of King and State (if not speedily prevented) till some wholesome remedy be applied to heale these distempers, by a Natio<g ref="char:EOLhyphen"/>nall
+<pb n="6" facs="tcp:197390:4"/>Synod legally called and chosen, whose reso<g ref="char:EOLhyphen"/>lution and determination (being formed into a Law) may exact Obedience.</p>
+            <p n="7">7. That the licenciousnesse of the Presse and Pulpet, which His Maiesty hath iustly complai<g ref="char:EOLhyphen"/>ned of, as the great Incendia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iss &amp; Causes of our present Distractions, may be restrained, and no<g ref="char:EOLhyphen"/>thing suffered in either way, to be Published, scan<g ref="char:EOLhyphen"/>dalous to the Governement and Liturgy of our Church, but to expect a Legall Reformation, if any thing shall be found of iust exception.</p>
+            <p n="3">3. That all tumultuous Assemblies may be for<g ref="char:EOLhyphen"/>bidden, however countenanced with Petitions: And for satisfaction of his Majestie, and the Ho<g ref="char:EOLhyphen"/>nour of Government, that some exemplary Pun<g ref="char:EOLhyphen"/>ishment may be inflicted upon the principall fomenters of them, when they shall be discove<g ref="char:EOLhyphen"/>red: and His Maiestie thereby invited to concur with you for the making such further Lawes, as may justy tend to the Peace and stability of the Church, His Crowne and State. And that you would (for the putting a period to these unhap<g ref="char:EOLhyphen"/>py Distractions, according to his Maiesties de<g ref="char:EOLhyphen"/>sires) to adjourne this Parliament to some other place, where you may enjoy His grarious pre<g ref="char:EOLhyphen"/>sence, as he hath declared. And your Petitioners shall be ready with their Lives and fortunes to maintaine his Maiesties iust Prerogatives, the Protestant Religion as it is now established a<g ref="char:EOLhyphen"/>mongst us, the Lawes of the Land, the Libertie and propriety of the Subiect, the iust Priviledges of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arliament, and the Peace of the Kingdome,
+<pb n="7" facs="tcp:197390:4"/>according to our Oathes of Supremacy, and Al<g ref="char:EOLhyphen"/>legiance, and the late Protestation taken amongst us, and shall ever pray for a happy issue to all your consultations as becommeth</p>
+            <closer>
+               <signed>Your most humble Petitioners.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A Letter sent to</hi> M<seg rend="sup">r.</seg> Speaker, FROM THE Knights, Esquiers, Gentry, and Freeholders of the County of <hi>LINCOLNE.</hi>
+            </head>
+            <head type="sub">For the Presenting of their Petition to the Honorable House of Commons, now in Parliament Assembled.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Master Speaker,</salute>
+                  </opener>
+                  <p>VPon his Maiesties gracious Sum<g ref="char:EOLhyphen"/>mons, the greater and more con<g ref="char:EOLhyphen"/>siderable part of this countie hath appeared at <hi>Lincoln,</hi> and being in<g ref="char:EOLhyphen"/>vited by our present Distractions to endevour some timely remedy of them, Many of the Gentry here Appearing, unanimously with the generall Approbation of the Clergy and Comminaltie (as they beleeve) conceived and agreed, this inclosed to be repre<g ref="char:EOLhyphen"/>sented
+<pb n="8" facs="tcp:197390:5"/>to the Honourable House of Commons; as their sence and Petition both to disabuse the World and Vindicate the Countie from some o<g ref="char:EOLhyphen"/>ther in<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rpretations which have been attempted to be fastned p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n them by other Petitions (as we have heard) and humbly presume with the tender of our Services, to present it by Your Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d to the Honorable House of <hi>Commons,</hi> a way in which we are confident it will not mis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arry, as some o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her Petitions (as we have heard) have done, by which favour you shall obilge.</p>
+                  <closer>
+                     <signed>Your Friends to serve you.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>VVE presume to send you this inclo<g ref="char:EOLhyphen"/>sed signed only by the Baronets, Knights, and Gentlem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n whose occasions would give them leave to Attend this Service, because we desire to give it a sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>edy addresse, least loste of time should take from us the wished effects of our Endeavours, but are con<g ref="char:EOLhyphen"/>fident we shall attest it with many thousand pounds, when it sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll be required from us: In the meane time we p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>esume to offer it to you, with the names of the Gentlemen and Clergy onely, though there be many other Subscripti<g ref="char:EOLhyphen"/>ons.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Lincoln,</hi>
+                        <date>
+                           <hi>Iuly</hi> 14. 1642.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
